@@ -1,0 +1,47 @@
+[
+  {
+    "id": "TXN_9421",
+    "userId": "USER_042",
+    "amount": 1250.00,
+    "channel": "Web",
+    "riskScore": 12,
+    "status": "Allowed",
+    "timestamp": "2024-06-30T14:22:10Z"
+  },
+  {
+    "id": "TXN_9422",
+    "userId": "USER_812",
+    "amount": 5420.50,
+    "channel": "Mobile APP",
+    "riskScore": 85,
+    "status": "Challenged",
+    "timestamp": "2024-06-30T14:25:32Z"
+  },
+  {
+    "id": "TXN_9423",
+    "userId": "USER_221",
+    "amount": 95.00,
+    "channel": "POS",
+    "riskScore": 5,
+    "status": "Allowed",
+    "timestamp": "2024-06-30T14:28:15Z"
+  },
+  {
+    "id": "TXN_9424",
+    "userId": "USER_099",
+    "amount": 12000.00,
+    "channel": "Transfer",
+    "riskScore": 98,
+    "status": "Blocked",
+    "timestamp": "2024-06-30T14:30:00Z"
+  },
+  {
+    "id": "TXN_9425",
+    "userId": "USER_442",
+    "amount": 320.00,
+    "channel": "Web",
+    "riskScore": 45,
+    "status": "Allowed",
+    "timestamp": "2024-06-30T14:35:12Z"
+  }
+]
