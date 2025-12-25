@@ -14,6 +14,9 @@ const fontMono = localFont({
 
 export const metadata: Metadata = {
   title: "Entropy",
+  icons: {
+    icon: "/entropy.png",
+  },
 };
 
 export default function RootLayout({
